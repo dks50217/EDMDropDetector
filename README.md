@@ -1,4 +1,4 @@
-# pyRegistered
+# EDMDropDetector
  EDMDropDetector
 
 # 預計含以下功能
